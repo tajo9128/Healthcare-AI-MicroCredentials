@@ -9,6 +9,17 @@ As predictive algorithms and decision-support tools are rapidly integrated into 
 
 This repository serves as the central hub for crowdsourcing, developing, and peer-reviewing an open-access, role-specific curriculum designed to be deployed on our logic-based, AI-assisted credentialing platform.
 
+
+---
+
+## 🎓 Related Free Course
+
+The clinical-judgment concepts behind these scenarios (automation bias, AI override decisions) are taught in
+**AI in Healthcare: Diagnosis to Drug Discovery** on [**BioDockify Learn**](https://learn.biodockify.com) —
+free AI-narrated video courses on pharmaceutical research, bioinformatics and healthcare AI.
+
+**👉 Start free: [learn.biodockify.com](https://learn.biodockify.com)**
+
 ## 🎯 Project Vision
 
 Our cyberinfrastructure utilizes a node-based visual editor, localized Large Language Models (LLMs), and mandatory "rationale assessments" to evaluate a learner's underlying thought process when interacting with clinical AI. 
